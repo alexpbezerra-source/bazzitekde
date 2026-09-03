@@ -50,8 +50,6 @@ modules:
     
     install:
       packages:
-        - firefox
-        - firefox-langpacks
         - google-chrome-stable
         - ptyxis     
         - papers
